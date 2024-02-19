@@ -1,6 +1,6 @@
 # Réservation d'Espaces pour Événements
 
-![Interface du site de Réservation d'Espaces pour Événements](https://imgur.com/xdVDWQW)
+![Interface du site de Réservation d'Espaces pour Événements](../open/src/assets/img/portfolio/canvas.png)
 
 ## Description
 
